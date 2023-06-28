@@ -1,0 +1,958 @@
+.bienvenue {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.bienvenue .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 844px;
+  overflow: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.bienvenue .primary-button-instance {
+  left: 32px !important;
+  position: absolute !important;
+  top: 764px !important;
+  width: 326px !important;
+}
+
+.bienvenue .frame {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 72px;
+  left: 0;
+  padding: 164px 32px 0px;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.bienvenue .frame-2 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 326px;
+}
+
+.bienvenue .rectangle {
+  align-self: stretch;
+  height: 217px;
+  min-width: 326px;
+  object-fit: cover;
+  position: relative;
+}
+
+.bienvenue .bienvenue-sur {
+  align-self: stretch;
+  color: #2f2f2f;
+  font-family: "Product Sans-Bold", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0.22px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.bienvenue .la-solution-de {
+  align-self: stretch;
+  color: #2f2f2f;
+  font-family: "Product Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.14px;
+  line-height: 22px;
+  position: relative;
+  text-align: center;
+}
+
+.bienvenue .keyboard {
+  height: 335px;
+  left: 0;
+  position: absolute;
+  top: 844px;
+  width: 390px;
+}
+
+.bienvenue .overlap {
+  height: 335px;
+  position: relative;
+}
+
+.bienvenue .keyboard-wrapper {
+  height: 335px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.bienvenue .div-wrapper {
+  height: 335px;
+}
+
+.bienvenue .keyboard-2 {
+  height: 335px;
+  position: relative;
+  width: 390px;
+}
+
+.bienvenue .overlap-group {
+  -webkit-backdrop-filter: blur(27.18px) brightness(100%);
+  backdrop-filter: blur(27.18px) brightness(100%);
+  background-color: #d3d7dd;
+  height: 337px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 392px;
+}
+
+.bienvenue .q {
+  height: 41px;
+  left: 4px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 34px;
+}
+
+.bienvenue .fill {
+  height: 41px;
+  left: 10089px;
+  position: absolute;
+  top: -5177px;
+  width: 34px;
+}
+
+.bienvenue .text-wrapper {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.bienvenue .w {
+  height: 41px;
+  left: 44px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 33px;
+}
+
+.bienvenue .img {
+  height: 41px;
+  left: 10049px;
+  position: absolute;
+  top: -5177px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-2 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.bienvenue .e {
+  height: 41px;
+  left: 82px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 33px;
+}
+
+.bienvenue .fill-2 {
+  height: 41px;
+  left: 10011px;
+  position: absolute;
+  top: -5177px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-3 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.bienvenue .r {
+  height: 41px;
+  left: 121px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 33px;
+}
+
+.bienvenue .fill-3 {
+  height: 41px;
+  left: 9972px;
+  position: absolute;
+  top: -5177px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-4 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.bienvenue .t {
+  height: 41px;
+  left: 159px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 33px;
+}
+
+.bienvenue .fill-4 {
+  height: 41px;
+  left: 9934px;
+  position: absolute;
+  top: -5177px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-5 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.bienvenue .y {
+  height: 41px;
+  left: 198px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 33px;
+}
+
+.bienvenue .fill-5 {
+  height: 41px;
+  left: 9895px;
+  position: absolute;
+  top: -5177px;
+  width: 33px;
+}
+
+.bienvenue .u {
+  height: 41px;
+  left: 236px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 33px;
+}
+
+.bienvenue .fill-6 {
+  height: 41px;
+  left: 9857px;
+  position: absolute;
+  top: -5177px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-6 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.bienvenue .i {
+  height: 41px;
+  left: 275px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 33px;
+}
+
+.bienvenue .fill-7 {
+  height: 41px;
+  left: 9818px;
+  position: absolute;
+  top: -5177px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-7 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 6px;
+}
+
+.bienvenue .o {
+  height: 41px;
+  left: 313px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 33px;
+}
+
+.bienvenue .fill-8 {
+  height: 41px;
+  left: 9780px;
+  position: absolute;
+  top: -5177px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-8 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.bienvenue .p {
+  height: 41px;
+  left: 353px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 34px;
+}
+
+.bienvenue .fill-9 {
+  height: 41px;
+  left: 9740px;
+  position: absolute;
+  top: -5177px;
+  width: 33px;
+}
+
+.bienvenue .a {
+  height: 41px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 34px;
+}
+
+.bienvenue .fill-10 {
+  height: 41px;
+  left: 10069px;
+  position: absolute;
+  top: -5230px;
+  width: 34px;
+}
+
+.bienvenue .s {
+  height: 41px;
+  left: 63px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 33px;
+}
+
+.bienvenue .fill-11 {
+  height: 41px;
+  left: 10030px;
+  position: absolute;
+  top: -5230px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-9 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.bienvenue .d {
+  height: 41px;
+  left: 102px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 33px;
+}
+
+.bienvenue .fill-12 {
+  height: 41px;
+  left: 9991px;
+  position: absolute;
+  top: -5230px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-10 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.bienvenue .f {
+  height: 41px;
+  left: 140px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 33px;
+}
+
+.bienvenue .fill-13 {
+  height: 41px;
+  left: 9953px;
+  position: absolute;
+  top: -5230px;
+  width: 33px;
+}
+
+.bienvenue .g {
+  height: 41px;
+  left: 179px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 33px;
+}
+
+.bienvenue .fill-14 {
+  height: 41px;
+  left: 9914px;
+  position: absolute;
+  top: -5230px;
+  width: 33px;
+}
+
+.bienvenue .h {
+  height: 41px;
+  left: 217px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 33px;
+}
+
+.bienvenue .fill-15 {
+  height: 41px;
+  left: 9876px;
+  position: absolute;
+  top: -5230px;
+  width: 33px;
+}
+
+.bienvenue .j {
+  height: 41px;
+  left: 256px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 33px;
+}
+
+.bienvenue .fill-16 {
+  height: 41px;
+  left: 9837px;
+  position: absolute;
+  top: -5230px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-11 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.bienvenue .k {
+  height: 41px;
+  left: 294px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 33px;
+}
+
+.bienvenue .fill-17 {
+  height: 41px;
+  left: 9799px;
+  position: absolute;
+  top: -5230px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-12 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.bienvenue .l {
+  height: 41px;
+  left: 334px;
+  overflow: hidden;
+  position: absolute;
+  top: 106px;
+  width: 33px;
+}
+
+.bienvenue .fill-18 {
+  height: 41px;
+  left: 9759px;
+  position: absolute;
+  top: -5230px;
+  width: 33px;
+}
+
+.bienvenue .z {
+  height: 41px;
+  left: 63px;
+  overflow: hidden;
+  position: absolute;
+  top: 161px;
+  width: 33px;
+}
+
+.bienvenue .fill-19 {
+  height: 41px;
+  left: 10030px;
+  position: absolute;
+  top: -5285px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-13 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.bienvenue .x {
+  height: 41px;
+  left: 102px;
+  overflow: hidden;
+  position: absolute;
+  top: 161px;
+  width: 33px;
+}
+
+.bienvenue .fill-20 {
+  height: 41px;
+  left: 9991px;
+  position: absolute;
+  top: -5285px;
+  width: 33px;
+}
+
+.bienvenue .c {
+  height: 41px;
+  left: 140px;
+  overflow: hidden;
+  position: absolute;
+  top: 161px;
+  width: 33px;
+}
+
+.bienvenue .fill-21 {
+  height: 41px;
+  left: 9953px;
+  position: absolute;
+  top: -5285px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-14 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.bienvenue .v {
+  height: 41px;
+  left: 179px;
+  overflow: hidden;
+  position: absolute;
+  top: 161px;
+  width: 33px;
+}
+
+.bienvenue .fill-22 {
+  height: 41px;
+  left: 9914px;
+  position: absolute;
+  top: -5285px;
+  width: 33px;
+}
+
+.bienvenue .b {
+  height: 41px;
+  left: 217px;
+  overflow: hidden;
+  position: absolute;
+  top: 161px;
+  width: 33px;
+}
+
+.bienvenue .fill-23 {
+  height: 41px;
+  left: 9876px;
+  position: absolute;
+  top: -5285px;
+  width: 33px;
+}
+
+.bienvenue .n {
+  height: 41px;
+  left: 256px;
+  overflow: hidden;
+  position: absolute;
+  top: 161px;
+  width: 33px;
+}
+
+.bienvenue .fill-24 {
+  height: 41px;
+  left: 9837px;
+  position: absolute;
+  top: -5285px;
+  width: 33px;
+}
+
+.bienvenue .m {
+  height: 41px;
+  left: 294px;
+  overflow: hidden;
+  position: absolute;
+  top: 161px;
+  width: 33px;
+}
+
+.bienvenue .fill-25 {
+  height: 41px;
+  left: 9799px;
+  position: absolute;
+  top: -5285px;
+  width: 33px;
+}
+
+.bienvenue .text-wrapper-15 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.bienvenue .icons-global-outline {
+  height: 27px;
+  left: 38px;
+  opacity: 0.6;
+  position: absolute;
+  top: 282px;
+  width: 28px;
+}
+
+.bienvenue .colors-blue {
+  height: 26px;
+  left: 10055px;
+  position: absolute;
+  top: -5406px;
+  width: 27px;
+}
+
+.bienvenue .element {
+  height: 41px;
+  left: 4px;
+  position: absolute;
+  top: 215px;
+  width: 90px;
+}
+
+.bienvenue .combined-shape-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/da32ace97ffb4b7a805d5ac78039918e/img/shift@2x.png);
+  background-size: 100% 100%;
+  height: 41px;
+  left: 10092px;
+  position: relative;
+  top: -5125px;
+}
+
+.bienvenue .combined-shape {
+  height: 12px;
+  left: 31px;
+  position: absolute;
+  top: 14px;
+  width: 27px;
+}
+
+.bienvenue .space {
+  height: 41px;
+  left: 101px;
+  position: absolute;
+  top: 215px;
+  width: 190px;
+}
+
+.bienvenue .combined-shape-2 {
+  height: 12px;
+  left: 73px;
+  position: absolute;
+  top: 14px;
+  width: 46px;
+}
+
+.bienvenue .return {
+  height: 41px;
+  left: 298px;
+  position: absolute;
+  top: 215px;
+  width: 89px;
+}
+
+.bienvenue .combined-shape-3 {
+  height: 10px;
+  left: 23px;
+  position: absolute;
+  top: 14px;
+  width: 41px;
+}
+
+.bienvenue .shift {
+  height: 41px;
+  left: 10095px;
+  position: absolute;
+  top: -4965px;
+  width: 42px;
+}
+
+.bienvenue .overlap-2 {
+  height: 41px;
+  left: 10436px;
+  position: absolute;
+  top: -4965px;
+  width: 42px;
+}
+
+.bienvenue .delete-icon {
+  height: 14px;
+  left: 9px;
+  position: absolute;
+  top: 5px;
+  width: 20px;
+}
+
+.bienvenue .delete {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.bienvenue .mic-icon {
+  height: 25px;
+  left: 10439px;
+  position: absolute;
+  top: -4842px;
+  width: 16px;
+}
+
+.bienvenue .rectangle-2 {
+  background-color: #000000;
+  border-radius: 3px;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 321px;
+  width: 141px;
+}
+
+.bienvenue .text-wrapper-16 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.bienvenue .text-wrapper-17 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 192px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 5px;
+}
+
+.bienvenue .text-wrapper-18 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 305px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.bienvenue .rectangle-3 {
+  background-color: #bec2c9;
+  height: 27px;
+  left: 258px;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
+
+.bienvenue .rectangle-copy {
+  background-color: #bec2c9;
+  height: 27px;
+  left: 128px;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
